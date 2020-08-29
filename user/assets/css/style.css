@@ -299,7 +299,7 @@ body {
 	color: #FFFFFF !important;
 	width: 100px;
 	height: 30px;
-	background-image: url('../images/logo.svg');
+	background-image: url('//cdn.jsdelivr.net/gh/AleSocks/static/user/assets/images/logo.svg');
 	background-repeat: no-repeat;
 }
 
