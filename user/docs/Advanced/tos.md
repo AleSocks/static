@@ -21,9 +21,9 @@
 ### 共同条款
 
 尽管此协议代表主要的使用条款，其他准则和规则在此通过引用并入本文。这些文件可以在我们网站上找到，其中包含：<br>
-我们的隐私政策 (https://users.alesocks.site/doc#/Advanced/privacy.md)<br>
-我们的可接受使用策略 (https://users.alesocks.site/doc#/Advanced/aup.md)<br>
-我们的服务水平协议 (https://users.alesocks.site/doc#/Advanced/sla.md)<br>
+我们的隐私政策 (https://users.alesocks.net/doc#/Advanced/privacy)<br>
+我们的可接受使用策略 (https://users.alesocks.net/doc#/Advanced/aup)<br>
+我们的服务水平协议 (https://users.alesocks.net/doc#/Advanced/sla)<br>
 
 ### 1. 服务
 
