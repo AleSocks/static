@@ -12,6 +12,13 @@
 
 此处将显示您的订阅链接，请注意为登录状态：
 
+SSR订阅
+
 [cinwell website](/sublink?type=ssr ':include :type=markdown')
+
+V2ray订阅
+
+[cinwell website](/sublink?type=v2ray ':include :type=markdown')
+
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
