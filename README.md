@@ -1,1 +1,0 @@
-# AleSocks static
